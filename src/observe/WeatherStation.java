@@ -1,4 +1,4 @@
-package weather;
+package observe;
 
 public class WeatherStation {
     public static void main(String[] args) {
