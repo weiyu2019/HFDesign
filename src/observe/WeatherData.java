@@ -35,5 +35,6 @@ public class WeatherData extends Observable {
     }
 
     public void setMeasurements(int i, int i1, float v) {
+
     }
 }
